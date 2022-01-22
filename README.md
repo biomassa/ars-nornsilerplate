@@ -2,6 +2,7 @@
 monome norns + boilerplate = nornsilerplate
 
 *a dang eduscript*
+(forked for study purposes, nothing public here
 
 ## instructions
 
